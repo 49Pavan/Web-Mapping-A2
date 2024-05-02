@@ -18,5 +18,5 @@ dependencies:
   - panel
   - pip:
     - Flask-Testing
-  packages:
+packages:
 - jupyter-panel-proxy
